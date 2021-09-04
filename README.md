@@ -1,5 +1,5 @@
 # FoodOrderingApplication
-<pre>
+<br/>
 This contains only two activities and  4 fragments 
 <br/>
 Activity:
@@ -11,4 +11,4 @@ Fragments :
          3.CartFragment
          4.CheckoutFragment
 all these 4 fragments are replaced and added into main activity
-</pre>
+<br/>
