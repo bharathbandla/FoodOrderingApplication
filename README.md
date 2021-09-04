@@ -19,6 +19,8 @@ Fragments :
 all these 4 fragments are replaced and added into main activity
 <br/>
 
+<h2> Screens </h2>
+
 <p float="left">
   
 <img src="https://user-images.githubusercontent.com/82259446/132098762-fdd0181b-f784-4d32-a197-a96386a12e9e.png"  width="195" height="400" />
